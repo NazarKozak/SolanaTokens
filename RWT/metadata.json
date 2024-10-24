@@ -1,0 +1,7 @@
+{
+  "name": "RealWorldTest",
+  "symbol": "RWT",
+  "description": "Real World Test Token",
+  "image": "https://raw.githubusercontent.com/NazarKozak/SolanaTokens/main/RWT/Assets/token_image.png?raw=true",
+  "seller_fee_basis_points": 50
+}
